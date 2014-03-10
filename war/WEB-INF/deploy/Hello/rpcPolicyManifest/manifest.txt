@@ -1,2 +1,0 @@
-# Module Hello
-# RPC service class, partial path of RPC policy file
